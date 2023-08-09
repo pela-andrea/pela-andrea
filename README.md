@@ -2,6 +2,28 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Andrea+Pela;I'm+34+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+### Olá, sou Andrea. 34 anos| Guarulhos - SP
+**Seja bem vindo por aqui. 😊**
+- Analista de dados 📈
+
+## Experiências:
+Business Intelligence: Construção de dashboards e KPIs;
+
+Analytics: Extração, limpeza e análise exploratória;
+
+Database: Consultas em bancos de dados;
+
+
+## Ferramentas:
+Linguagens de programação: Python, SQL;
+
+Softwares de visualização de dados: Power BI, Google Analytics, Looker;
+
+Banco de dados: MySQL, MongoDB, PostGis/PostsSQL, Oracle, BigQuery;
+
+Computação em nuvem: Google Cloud, AWS;
+
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pela-andrea&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
